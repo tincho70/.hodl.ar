@@ -41,9 +41,9 @@ blocks:
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
 #   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+  - title: Github
+    icon: github
+    url: https://github.com/chelodxmg
 
 # - title: Sitio Web
 #   icon: url
