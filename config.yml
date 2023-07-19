@@ -35,7 +35,7 @@ blocks:
 
 # - title: Twitter
 #   icon: twitter
-#   url: https://twitter.com/TU-USUARIO
+#   url: https://twitter.com/chelodxmg
     
 # - title: LinkedIn # Este es el nombre del botón
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
@@ -51,7 +51,7 @@ blocks:
 
 # - title: Telegram
 #   icon: telegram
-#   url: https://t.me/TU-USUARIO
+#   url: https://t.me/DxMorgan
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones
