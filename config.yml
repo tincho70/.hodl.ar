@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: @DxMorgan # Aca podes poner tu nombre o el de tu producto
+  title: "@DxMorgan" # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
